@@ -16,6 +16,11 @@ body{
     left: 30px;
     top: 30px;
 }
+@media only screen and (max-width: 663px){
+    .home{
+        visibility: hidden;
+    }
+}
 
 .heading h1{
     transform: translate(0,90%);
