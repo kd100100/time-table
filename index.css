@@ -9,14 +9,6 @@ body{
     background-attachment: fixed;
 }
 
-.home{
-    opacity: 0.7;
-    width: 50px;
-    position: absolute;
-    left: 30px;
-    top: 30px;
-}
-
 .heading h1{
     transform: translate(0,90%);
     font-size: 450%;
